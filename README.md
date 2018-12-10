@@ -9,9 +9,8 @@ As described in the [Homework Text](https://github.com/CriMenghini/ADM-2018/tree
 
 You can find two different files in our directory:
 
-- NAME: .ipynb file in which you can find the web scraping part with the clustering and the wordcloud graph.
+- functions: .py file in which you can find all the functions used .
 
-- NAME: .ipynb file with the code(commented) for the Find the duplicates part.
-
+- Homework-04: .ipynb  file in which you can find the web scraping part with the clustering, the wordcloud graph and finding the duplicates.
 
 Participating's name: **Andom Liwam , Cantagallo Edoardo, Porcu Francesca**
