@@ -29,3 +29,10 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## healthy path
+* caprone
+  - utter_caprone
+* uscire
+  - utter_restacasa
+  
