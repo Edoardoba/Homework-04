@@ -27,6 +27,14 @@
 - no way
 - not really
 
+## intent:corona
+- caprone
+- stai a casa
+
+## intent:uscire
+- dove vai
+- resta a casa
+
 ## intent:mood_great
 - perfect
 - very good
